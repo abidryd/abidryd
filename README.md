@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Abid
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+
+![test](https://media.tenor.com/jyEHRLAQDMoAAAAC/taxi-driver-sleepy.gif)
+- 👀 I’m interested in anything
+- 🌱 I’m currently learning everything
 - 📫 How to reach me @abidryd
 
 <!---
